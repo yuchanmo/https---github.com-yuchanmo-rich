@@ -1,0 +1,2 @@
+mysql-connector
+pandas==1.3.3
